@@ -1,0 +1,83 @@
+{
+    "create": {
+      "title": "O Máskara",
+      "overview": "Um bancário tímido encontra uma máscara mágica que o transforma em um personagem exagerado e cheio de poder.",
+      "company": "Netflix",
+      "release_year": 1994,
+      "feature": false,
+      "cover": "covers/o_maskara.png"
+    },
+    "as_branquelas": {
+      "title": "As Branquelas",
+      "overview": "Dois agentes do FBI se disfarçam como socialites para desvendar um plano de sequestro.",
+      "company": "Sony Pictures",
+      "release_year": 2004,
+      "feature": false,
+      "cover": "covers/as_branquelas.png"
+    },
+    "se_beber_nao_case": {
+      "title": "Se Beber, Não Case!",
+      "overview": "Após uma despedida de solteiro em Las Vegas, três amigos tentam encontrar o noivo desaparecido.",
+      "company": "Warner Bros.",
+      "release_year": 2009,
+      "feature": false,
+      "cover": "covers/se_beber_nao_case.png"
+    },
+    "debi_e_loide": {
+      "title": "Debi & Lóide",
+      "overview": "Dois amigos extremamente ingênuos embarcam em uma viagem cruzando os EUA para devolver uma mala perdida.",
+      "company": "Netflix",
+      "release_year": 1994,
+      "feature": false,
+      "cover": "covers/debi_e_loide.png"
+    },
+    "esqueceram_de_mim": {
+      "title": "Esqueceram de Mim",
+      "overview": "Um garoto é acidentalmente deixado para trás pela família nas férias de Natal e precisa defender sua casa de ladrões atrapalhados.",
+      "company": "Columbia Pictures",
+      "release_year": 1990,
+      "feature": false,
+      "cover": "covers/esqueceram_de_mim.png"
+    },
+    "todo_mundo_em_panico": {
+      "title": "Todo Mundo em Pânico",
+      "overview": "Uma sátira aos filmes de terror, onde um grupo de adolescentes é perseguido por um assassino mascarado.",
+      "company": "Walt Disney Studios",
+      "release_year": 2000,
+      "feature": false,
+      "cover": "covers/todo_mundo_em_panico.png"
+    },
+    "zohan_um_agente_bom_de_corte": {
+      "title": "Zohan: Um Agente Bom de Corte",
+      "overview": "Um agente secreto israelense forja sua morte para perseguir seu sonho de ser cabeleireiro em Nova York.",
+      "company": "Columbia Pictures",
+      "release_year": 2008,
+      "feature": false,
+      "cover": "covers/zohan.png"
+    },
+    "superbad_e_hoje": {
+      "title": "Superbad - É Hoje",
+      "overview": "Dois amigos tentam aproveitar ao máximo a vida antes da faculdade, enfrentando situações hilárias em uma noite insana.",
+      "company": "Columbia Pictures",
+      "release_year": 2007,
+      "feature": false,
+      "cover": "covers/superbad.png"
+    },
+    "click": {
+      "title": "Click",
+      "overview": "Um homem encontra um controle remoto que pode controlar o tempo, mas logo percebe as consequências das suas escolhas.",
+      "company": "Columbia Pictures",
+      "release_year": 2006,
+      "feature": false,
+      "cover": "covers/click.png"
+    },
+    "o_virgem_de_40_anos": {
+      "title": "O Virgem de 40 Anos",
+      "overview": "Um homem de 40 anos que nunca teve relações tenta mudar isso com a ajuda de amigos atrapalhados.",
+      "company": "Universal Pictures",
+      "release_year": 2005,
+      "feature": false,
+      "cover": "covers/o_virgem_de_40_anos.png"
+    }
+  }
+  
